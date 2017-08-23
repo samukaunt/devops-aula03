@@ -1,7 +1,11 @@
 # Ferramentas de controle de versão:
 *Mercurial
 
-*Gitlab
+
+*GitHub
+
+
+
 
 *Subversion
 
